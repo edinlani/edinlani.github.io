@@ -99,10 +99,10 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/t3-800x400.png",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
                 "title": "",
                 "contentAlign": "left",
                 "text": "",
@@ -110,7 +110,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/sport-800x400.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -125,9 +125,9 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/got-talent-800x400.jpg",
                 "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
                 "title": "",
                 "contentAlign": "left",
                 "text": "",
