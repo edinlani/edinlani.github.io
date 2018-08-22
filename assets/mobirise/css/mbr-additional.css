@@ -23,6 +23,13 @@
 #dropdown-menu-5 A {
   font-family: 'Roboto', sans-serif;
 }
+#msg-box1-p .mbr-header .mbr-header__text {
+  color: #ffffff;
+  font-size: 32px;
+}
+#msg-box1-p .mbr-article {
+  color: #fff;
+}
 #header3-o H3 {
   color: #7c706b;
   font-size: 36px;
@@ -49,5 +56,29 @@
   color: #ffffff;
 }
 #dropdown-menu-d A {
+  font-family: 'Roboto', sans-serif;
+}
+
+#dropdown-menu-v .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-v .nav .link,
+#dropdown-menu-v .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-v .navbar,
+#dropdown-menu-v .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-v .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-v .dropdown-menu a:hover,
+#dropdown-menu-v .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-v .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-v A {
   font-family: 'Roboto', sans-serif;
 }
