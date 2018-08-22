@@ -87,7 +87,7 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
-            "fullScreen": false,
+            "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": "3",
             "showBullets": true,
@@ -109,7 +109,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/got-talent-2000x1013.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -120,7 +120,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/screenshot-10-1366x768.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
