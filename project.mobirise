@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Astro",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,7 +15,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 34,
+    "uniqCompNum": 42,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -67,7 +67,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROMOSI TERKINI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Multiroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Njoi</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ASTRO BEYOND</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Daftar Sekarang</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NJOI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kenali Njoi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Siaran Njoi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Njoi Tambah nilai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Daftar Sekarang</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PERKHIDMATAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Connected Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Multiroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro HD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Khidmat Lain</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DAFTAR SEKARANG</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROMOSI TERKINI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Multiroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Njoi</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ASTRO BEYOND</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Daftar Sekarang</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NJOI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kenali Njoi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Siaran Njoi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Njoi Tambah nilai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Daftar Sekarang</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PERKHIDMATAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Connected Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Multiroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro HD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Khidmat Lain</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DAFTAR SEKARANG</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -442,7 +442,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Promosi Terkini",
-        "order": 2,
+        "order": 1,
         "footer_custom": ""
       },
       "components": [
@@ -457,6 +457,306 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/beyond-1-600x450.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "ASTRO BEYOND",
+          "caption1": "* Upah Pemasangan Rm 57<br>* Nikmati 60+ lebih siaran SD &amp; HD dengan hanya Rm 61.32/bulan ( Starter Pack ) Pakej Promo Merdeka",
+          "button1": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LIHAT</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pvr-1-600x450.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "ASTRO BEYOND PVR",
+          "caption2": "* Tiada lagi masalah siaran terganggu dengan Astro Beyond PVR anda boleh menonton siaran rakaman anda bila-bila masa sahaja.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LIHAT</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mr-600x450.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "ASTRO MULTIROOM",
+          "caption3": "* Tidak lagi berebut remote dengan ada satu lagi decoder tambahan di rumah anda.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LIHAT</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/njoi-600x450.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "NJOI",
+          "caption4": "* Nikmati siaran pilihan astro percuma tanpa bayaran bulanan.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LIHAT</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-t"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            "A": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROMOSI TERKINI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Multiroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Njoi</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ASTRO BEYOND</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Daftar Sekarang</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NJOI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kenali Njoi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Siaran Njoi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Njoi Tambah nilai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Daftar Sekarang</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PERKHIDMATAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Connected Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Multiroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro HD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Khidmat Lain</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DAFTAR SEKARANG</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-astro-251x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Go Beyond</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-d"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\">CONTACT US</a>",
+          "text1": "<strong>ADDRESS</strong><br>23A Persiaran Greentown 5<br>Greentown Business Centre<br>30450 Ipoh, Perak<br>Malaysia<br><br>\n<strong>CONTACTS</strong><br>\nEmail: khairul-izzuddin_jumadi@astro.com.my<br>Email: edin950426@gmail.com<br>\nPhone: +6 019 234 3884<br>",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "edin950426@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-e"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": "0.7"
+          },
+          "text": "Copyright (c) 2015 MEASAT Broadcast Network Systems Sdn Bhd. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-u"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Astro Beyond dan pvr",
+        "order": 4,
+        "footer_custom": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -609,7 +909,7 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-t"
+          "_anchor": "features1-y"
         },
         {
           "_styles": {
@@ -646,7 +946,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROMOSI TERKINI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Multiroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Njoi</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ASTRO BEYOND</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Daftar Sekarang</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NJOI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kenali Njoi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Siaran Njoi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Njoi Tambah nilai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Daftar Sekarang</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PERKHIDMATAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Connected Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Multiroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro HD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Khidmat Lain</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DAFTAR SEKARANG</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROMOSI TERKINI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Multiroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Njoi</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ASTRO BEYOND</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Daftar Sekarang</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NJOI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kenali Njoi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Siaran Njoi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Njoi Tambah nilai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Daftar Sekarang</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PERKHIDMATAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Connected Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Multiroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro HD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Khidmat Lain</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DAFTAR SEKARANG</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -664,7 +964,7 @@
             "Theme"
           ],
           "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-d"
+          "_anchor": "dropdown-menu-z"
         },
         {
           "_params": {
@@ -714,7 +1014,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-e"
+          "_anchor": "contacts3-10"
         },
         {
           "_params": {
@@ -734,17 +1034,85 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-u"
+          "_anchor": "footer1-11"
         }
       ]
     },
-    "page2.html": {
+    "page4.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
-        "title": "Promosi Beyond",
-        "order": 1
+        "meta_descr": "Web Page Builder Description",
+        "title": "Astro Beyond Promo",
+        "order": 2
       },
       "components": [
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ea2f8a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/starter-1-800x720.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "PAKEJ STARTER",
+          "text": "<p>* Rm 57 Upah Pemasangan</p><p>* Rm 61.32 Bill Bulanan</p><p>* Warranty Decoder&nbsp;</p><p>* Dengan Siaran HD ( Bernilai Rm25 )</p><p>* Kadar serendah Rm 2.05/hari</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#3d8eb9"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DAFTAR</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HUBUNGI</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-15"
+        },
         {
           "_styles": {
             ".hide-buttons [data-button]": {
@@ -780,7 +1148,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROMOSI TERKINI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Multiroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Njoi</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ASTRO BEYOND</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Daftar Sekarang</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NJOI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kenali Njoi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Siaran Njoi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Njoi Tambah nilai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Daftar Sekarang</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PERKHIDMATAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Connected Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Multiroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro HD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Khidmat Lain</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DAFTAR SEKARANG</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROMOSI TERKINI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Multiroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Njoi</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ASTRO BEYOND</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Daftar Sekarang</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">NJOI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kenali Njoi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Siaran Njoi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Njoi Tambah nilai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Daftar Sekarang</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PERKHIDMATAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Astro Beyond PVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Connected Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Multiroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro Go</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Astro HD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Khidmat Lain</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DAFTAR SEKARANG</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -798,7 +1166,7 @@
             "Theme"
           ],
           "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-v"
+          "_anchor": "dropdown-menu-12"
         },
         {
           "_params": {
@@ -848,7 +1216,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-w"
+          "_anchor": "contacts3-13"
         },
         {
           "_params": {
@@ -868,7 +1236,7 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-x"
+          "_anchor": "footer1-14"
         }
       ]
     }
